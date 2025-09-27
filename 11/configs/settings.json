@@ -1,0 +1,10 @@
+{
+  "points_per_trace": 16,
+  "total_pairs": 10000,
+  "block_size": 2000,
+  "paths": {
+    "plaintexts": "/mnt/data/plaintexts.dat",
+    "ciphertexts": "/mnt/data/ciphertexts.dat",
+    "faultytexts": "/mnt/data/faultytexts.dat"
+  }
+}

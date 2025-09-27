@@ -1,0 +1,4 @@
+Column 0: 474
+Column 1: 475
+Column 2: 421
+Column 3: 144
